@@ -24,6 +24,7 @@ Constraints
 Example
 Test cases 1 and 5 represent valid squares. Case 2 has an extra cell that is outside of the square. Case 3 shows a square not filled inside. And case 4 is a rectangle but not a square.
 
+```
 Input:
 5
 4
@@ -53,11 +54,13 @@ Input:
 #####
 #####
 #####
+```
 
-
+```
 Output:
 Case #1: YES
 Case #2: NO
 Case #3: NO
 Case #4: NO
 Case #5: YES
+```
